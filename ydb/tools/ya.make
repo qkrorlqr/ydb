@@ -13,5 +13,6 @@ RECURSE(
     stress_tool
     tsserver
     tstool
+    vdisk-lsm-index-compress
     ydbd_slice
 )
